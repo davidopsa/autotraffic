@@ -26,7 +26,8 @@ Adicional, asegurarse que las siguientes extensiones están habilitadas en PHP:
 * app/Config/Database.php -> Linea 29 y agregar el puerto elegido. y a 
 * app/Config/App.php -> Linea 19 y agregar ruta y puerto para correr en local o bien en entorno productivo
 
-##Instalar la base de datos en el gestor
+## Descargar base de datos ubicado en raíz master
+autotraffic.sql, Instalar la base de datos en el gestor
 
 * descargar el proyecto en la ruta donde se abrirá desde el servidor (htdocs)
 
