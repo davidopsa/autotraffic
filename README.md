@@ -32,3 +32,30 @@ autotraffic.sql, Instalar la base de datos en el gestor
 * descargar el proyecto en la ruta donde se abrirá desde el servidor (htdocs)
 
 * Comenzar su ejecución abriendolo en el navegador.
+
+## Instrucciones de uso
+# Agregar
+
+* Al iniciar el proyecto se vizualizará un botón "Nueva Tarea" para agregar una nueva tarea y en listado de tareas en caso de que existan
+* Al dar click al boton "Nueva tarea" podremos agregar la información de la misma a través de una ventana modal.
+* Al llenar los datos completos, veremos en la lista como se ha agregado.
+
+# Editar
+* Para editar, se debe dar doble click sobre el registro de la tabla que se desea editar y se podrá visualizar el resumen junto con el boton "Editar" para habilitar los campos de edición.
+* Realizar las edicines correspondientes de informar y guardar los cambios
+
+# Eliminar
+* Para eliminar un registro, dar doble click sobre el registro que se desea eliminar, se mostrara la vista de resumen y el botón de eliminar, dar click, confirmar la eliminación y listo.
+
+
+
+
+
+
+
+
+
+
+
+
+
