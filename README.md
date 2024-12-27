@@ -33,18 +33,21 @@ autotraffic.sql, Instalar la base de datos en el gestor
 
 * Comenzar su ejecución abriendolo en el navegador.
 
-## Instrucciones de uso
-# Agregar
+# Instrucciones de uso
+## Listado de tareas
+* Las tareas se muestran de inmediato en cuanto inicia el programa, si es que existen y sino el programa te notifica también.
+
+## Agregar
 
 * Al iniciar el proyecto se vizualizará un botón "Nueva Tarea" para agregar una nueva tarea y en listado de tareas en caso de que existan
 * Al dar click al boton "Nueva tarea" podremos agregar la información de la misma a través de una ventana modal.
 * Al llenar los datos completos, veremos en la lista como se ha agregado.
 
-# Editar
+## Editar
 * Para editar, se debe dar doble click sobre el registro de la tabla que se desea editar y se podrá visualizar el resumen junto con el boton "Editar" para habilitar los campos de edición.
 * Realizar las edicines correspondientes de informar y guardar los cambios
 
-# Eliminar
+## Eliminar
 * Para eliminar un registro, dar doble click sobre el registro que se desea eliminar, se mostrara la vista de resumen y el botón de eliminar, dar click, confirmar la eliminación y listo.
 
 
